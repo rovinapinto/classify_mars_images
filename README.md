@@ -1,4 +1,4 @@
-# MARS IMAGE CLASSIFICATION
+# MARS IMAGE CLASSIFICATION (Group Project: Team of 4)
 
 # **Motivation**
 
